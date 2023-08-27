@@ -1,0 +1,69 @@
+ body{background-attachment: fixed}
+
+ h1 {
+  text-decoration: Wavy Underline;
+   text-decoration-color: Burlywood; 
+   font-family: "Comic Sans MS"
+  }
+
+  h4{
+   color:LightSeagreen;
+   font-family: MV Boli;
+   font-size: 30px;
+   text-decoration: Wavy Underline;
+   text-decoration-color:Cornsilk
+  }
+
+ audio {
+    border: 5px Solid Gold;
+    background: linear-gradient(45deg, Purple, Deeppink, Lime, Deepskyblue, OrangeRed);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  a {
+    background: linear-gradient(45deg, BlanchedAlmond, Deeppink, Lime, Deepskyblue, OrangeRed);
+    text-decoration: none; 
+    font-family: Rockwell; 
+    font-size: 20px;
+    font-style: Italic;
+    position: relative left 20px;
+  }
+
+  a:link {color:Crimson}
+  a:visited {color:Purple}
+  a:active {color:Snow}
+  a:hover {color:Black}
+
+  .in {
+    font-size: 30px; 
+    text-decoration: Wavy Underline; 
+    text-decoration-color: Orange
+   }
+
+   .Lyrics {
+   color:Black;
+   font-family: Harrington;
+   font-size: 30px;
+   background: linear-gradient(to bottom, Red, #F06595, #F8D210, #39E3A6)
+   }
+
+ .Newton{color:AquaMarine}
+
+ .Rhapsody{color:Blueviolet}
+
+ .Deep{color:Deepskyblue}
+
+ .Group{color:Azure}
+
+ .Mike{color:Gold}
+
+ .Phil{color:Crimson}
+
+ .Legends{
+   color:Black; 
+   background: linear-gradient(45deg, #660099, #FF1493); font-family: Rockwell;
+   text-decoration: Solid Underline; 
+   text-decoration-color: Burlywood
+  }
